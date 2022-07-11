@@ -1,0 +1,11 @@
+.encabezado_negro{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.desplegables_menu{
+    display: flex;
+}
+
+
